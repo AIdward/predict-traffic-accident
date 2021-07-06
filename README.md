@@ -1,4 +1,4 @@
-# predict-traffic-accident
+# Predict Traffic Accident
 
 ![https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/title.PNG](https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/title.PNG)
 
