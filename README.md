@@ -2,7 +2,18 @@
 
 ![https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/title.PNG](https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/title.PNG)
 
+### 참여 링크
 https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_001
+
+
+### 분석 코드
+
+https://nbviewer.jupyter.org/github/AIdward/predict-traffic-accident/blob/5dae19925ae9e046c66d2ea46ab3c10fbeace9bb/code.ipynb
+
+### 발표 자료
+
+https://github.com/AIdward/predict-traffic-accident/raw/master/presentation.pdf
+
 
 ### **해결 과제**
 
@@ -20,11 +31,3 @@ https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_001
 ### **데이터 협력기관**
 
 - SK Telecom, 한국교통연구원
-
-### 분석 코드
-
-https://nbviewer.jupyter.org/github/AIdward/predict-traffic-accident/blob/5dae19925ae9e046c66d2ea46ab3c10fbeace9bb/code.ipynb
-
-### 발표 자료
-
-https://github.com/AIdward/predict-traffic-accident/raw/master/presentation.pdf
