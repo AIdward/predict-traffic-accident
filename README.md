@@ -1,10 +1,8 @@
 # predict-traffic-accident
 
-[]()
+![https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/title.PNG](https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/title.PNG)
 
-![predict-traffic-accident%2095d17137d8534d71a0713d07db37fc42/title.png](predict-traffic-accident%2095d17137d8534d71a0713d07db37fc42/title.png)
-
-[https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_001](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_001)
+https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_001
 
 ### **해결 과제**
 
